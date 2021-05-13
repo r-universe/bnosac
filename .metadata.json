@@ -1,0 +1,90 @@
+[
+  {
+    "package": "BTM",
+    "oncran": true
+  },
+  {
+    "package": "crfsuite",
+    "oncran": true
+  },
+  {
+    "package": "cronR",
+    "oncran": true
+  },
+  {
+    "package": "doc2vec",
+    "oncran": true
+  },
+  {
+    "package": "image.CannyEdges",
+    "oncran": true
+  },
+  {
+    "package": "image.ContourDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.CornerDetectionF9",
+    "oncran": true
+  },
+  {
+    "package": "image.CornerDetectionHarris",
+    "oncran": true
+  },
+  {
+    "package": "image.dlib",
+    "oncran": true
+  },
+  {
+    "package": "image.libfacedetection",
+    "oncran": true
+  },
+  {
+    "package": "image.LineSegmentDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.Otsu",
+    "oncran": true
+  },
+  {
+    "package": "nametagger",
+    "oncran": true
+  },
+  {
+    "package": "ruimtehol",
+    "oncran": true
+  },
+  {
+    "package": "sentencepiece",
+    "oncran": true
+  },
+  {
+    "package": "spark.sas7bdat",
+    "oncran": true
+  },
+  {
+    "package": "taskscheduleR",
+    "oncran": true
+  },
+  {
+    "package": "textplot",
+    "oncran": true
+  },
+  {
+    "package": "textrank",
+    "oncran": true
+  },
+  {
+    "package": "tokenizers.bpe",
+    "oncran": true
+  },
+  {
+    "package": "udpipe",
+    "oncran": true
+  },
+  {
+    "package": "word2vec",
+    "oncran": true
+  }
+]
