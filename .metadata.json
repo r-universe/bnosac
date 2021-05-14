@@ -64,8 +64,7 @@
     "oncran": true
   },
   {
-    "package": "taskscheduleR",
-    "oncran": true
+    "package": "taskscheduleR"
   },
   {
     "package": "textplot",
