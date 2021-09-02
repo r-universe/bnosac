@@ -8,9 +8,6 @@
     "oncran": true
   },
   {
-    "package": "cronR"
-  },
-  {
     "package": "doc2vec",
     "oncran": true
   },
