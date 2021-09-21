@@ -13,6 +13,11 @@
 	url = https://github.com/bnosac/crfsuite
 	shallow = true
 	registered = true
+[submodule "cronR"]
+	path = cronR
+	url = https://github.com/bnosac/cronr
+	shallow = true
+	registered = true
 [submodule "doc2vec"]
 	path = doc2vec
 	url = https://github.com/bnosac/doc2vec
