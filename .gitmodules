@@ -23,54 +23,6 @@
 	url = https://github.com/bnosac/doc2vec
 	shallow = true
 	registered = true
-[submodule "image.CannyEdges"]
-	path = image.CannyEdges
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.CannyEdges
-	registered = true
-[submodule "image.ContourDetector"]
-	path = image.ContourDetector
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.ContourDetector
-	registered = true
-[submodule "image.CornerDetectionF9"]
-	path = image.CornerDetectionF9
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.CornerDetectionF9
-	registered = true
-[submodule "image.CornerDetectionHarris"]
-	path = image.CornerDetectionHarris
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.CornerDetectionHarris
-	registered = true
-[submodule "image.dlib"]
-	path = image.dlib
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.dlib
-	registered = true
-[submodule "image.libfacedetection"]
-	path = image.libfacedetection
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.libfacedetection
-	registered = true
-[submodule "image.LineSegmentDetector"]
-	path = image.LineSegmentDetector
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.LineSegmentDetector
-	registered = true
-[submodule "image.Otsu"]
-	path = image.Otsu
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.Otsu
-	registered = true
 [submodule "nametagger"]
 	path = nametagger
 	url = https://github.com/bnosac/nametagger
