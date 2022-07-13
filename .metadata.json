@@ -16,6 +16,38 @@
     "oncran": true
   },
   {
+    "package": "image.CannyEdges",
+    "oncran": true
+  },
+  {
+    "package": "image.ContourDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.CornerDetectionF9",
+    "oncran": true
+  },
+  {
+    "package": "image.CornerDetectionHarris",
+    "oncran": true
+  },
+  {
+    "package": "image.dlib",
+    "oncran": true
+  },
+  {
+    "package": "image.libfacedetection",
+    "oncran": true
+  },
+  {
+    "package": "image.LineSegmentDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.Otsu",
+    "oncran": true
+  },
+  {
     "package": "nametagger",
     "oncran": true
   },
