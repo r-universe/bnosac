@@ -18,11 +18,6 @@
 	url = https://github.com/bnosac/cronr
 	shallow = true
 	registered = true
-[submodule "doc2vec"]
-	path = doc2vec
-	url = https://github.com/bnosac/doc2vec
-	shallow = true
-	registered = true
 [submodule "image.CannyEdges"]
 	path = image.CannyEdges
 	url = https://github.com/bnosac/image
