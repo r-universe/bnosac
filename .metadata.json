@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "doc2vec",
+    "oncran": true
+  },
+  {
     "package": "image.CannyEdges",
     "oncran": true
   },
