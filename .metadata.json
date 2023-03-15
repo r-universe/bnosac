@@ -4,15 +4,7 @@
     "oncran": true
   },
   {
-    "package": "sentencepiece",
-    "oncran": true
-  },
-  {
-    "package": "ruimtehol",
-    "oncran": true
-  },
-  {
-    "package": "textrank",
+    "package": "crfsuite",
     "oncran": true
   },
   {
@@ -20,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "tokenizers.bpe",
-    "oncran": true
-  },
-  {
-    "package": "word2vec",
+    "package": "doc2vec",
     "oncran": true
   },
   {
@@ -32,35 +20,7 @@
     "oncran": true
   },
   {
-    "package": "spark.sas7bdat",
-    "oncran": true
-  },
-  {
     "package": "image.ContourDetector",
-    "oncran": true
-  },
-  {
-    "package": "image.Otsu",
-    "oncran": true
-  },
-  {
-    "package": "image.LineSegmentDetector",
-    "oncran": true
-  },
-  {
-    "package": "image.dlib",
-    "oncran": true
-  },
-  {
-    "package": "crfsuite",
-    "oncran": true
-  },
-  {
-    "package": "image.libfacedetection",
-    "oncran": true
-  },
-  {
-    "package": "textplot",
     "oncran": true
   },
   {
@@ -68,14 +28,54 @@
     "oncran": true
   },
   {
-    "package": "taskscheduleR"
-  },
-  {
-    "package": "doc2vec",
+    "package": "image.CornerDetectionHarris",
     "oncran": true
   },
   {
-    "package": "image.CornerDetectionHarris",
+    "package": "image.dlib",
+    "oncran": true
+  },
+  {
+    "package": "image.libfacedetection",
+    "oncran": true
+  },
+  {
+    "package": "image.LineSegmentDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.Otsu",
+    "oncran": true
+  },
+  {
+    "package": "nametagger",
+    "oncran": true
+  },
+  {
+    "package": "ruimtehol",
+    "oncran": true
+  },
+  {
+    "package": "sentencepiece",
+    "oncran": true
+  },
+  {
+    "package": "spark.sas7bdat",
+    "oncran": true
+  },
+  {
+    "package": "taskscheduleR"
+  },
+  {
+    "package": "textplot",
+    "oncran": true
+  },
+  {
+    "package": "textrank",
+    "oncran": true
+  },
+  {
+    "package": "tokenizers.bpe",
     "oncran": true
   },
   {
@@ -83,7 +83,7 @@
     "oncran": true
   },
   {
-    "package": "nametagger",
+    "package": "word2vec",
     "oncran": true
   }
 ]

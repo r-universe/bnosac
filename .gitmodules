@@ -8,19 +8,9 @@
 	url = https://github.com/bnosac/btm
 	shallow = true
 	registered = true
-[submodule "sentencepiece"]
-	path = sentencepiece
-	url = https://github.com/bnosac/sentencepiece
-	shallow = true
-	registered = true
-[submodule "ruimtehol"]
-	path = ruimtehol
-	url = https://github.com/bnosac/ruimtehol
-	shallow = true
-	registered = true
-[submodule "textrank"]
-	path = textrank
-	url = https://github.com/bnosac/textrank
+[submodule "crfsuite"]
+	path = crfsuite
+	url = https://github.com/bnosac/crfsuite
 	shallow = true
 	registered = true
 [submodule "cronR"]
@@ -28,14 +18,9 @@
 	url = https://github.com/bnosac/cronr
 	shallow = true
 	registered = true
-[submodule "tokenizers.bpe"]
-	path = tokenizers.bpe
-	url = https://github.com/bnosac/tokenizers.bpe
-	shallow = true
-	registered = true
-[submodule "word2vec"]
-	path = word2vec
-	url = https://github.com/bnosac/word2vec
+[submodule "doc2vec"]
+	path = doc2vec
+	url = https://github.com/bnosac/doc2vec
 	shallow = true
 	registered = true
 [submodule "image.CannyEdges"]
@@ -44,50 +29,11 @@
 	shallow = true
 	subdir = image.CannyEdges
 	registered = true
-[submodule "spark.sas7bdat"]
-	path = spark.sas7bdat
-	url = https://github.com/bnosac/spark.sas7bdat
-	shallow = true
-	registered = true
 [submodule "image.ContourDetector"]
 	path = image.ContourDetector
 	url = https://github.com/bnosac/image
 	shallow = true
 	subdir = image.ContourDetector
-	registered = true
-[submodule "image.Otsu"]
-	path = image.Otsu
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.Otsu
-	registered = true
-[submodule "image.LineSegmentDetector"]
-	path = image.LineSegmentDetector
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.LineSegmentDetector
-	registered = true
-[submodule "image.dlib"]
-	path = image.dlib
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.dlib
-	registered = true
-[submodule "crfsuite"]
-	path = crfsuite
-	url = https://github.com/bnosac/crfsuite
-	shallow = true
-	registered = true
-[submodule "image.libfacedetection"]
-	path = image.libfacedetection
-	url = https://github.com/bnosac/image
-	shallow = true
-	subdir = image.libfacedetection
-	registered = true
-[submodule "textplot"]
-	path = textplot
-	url = https://github.com/bnosac/textplot
-	shallow = true
 	registered = true
 [submodule "image.CornerDetectionF9"]
 	path = image.CornerDetectionF9
@@ -95,29 +41,83 @@
 	shallow = true
 	subdir = image.CornerDetectionF9
 	registered = true
-[submodule "taskscheduleR"]
-	path = taskscheduleR
-	url = https://github.com/bnosac/taskscheduler
-	shallow = true
-	registered = true
-[submodule "doc2vec"]
-	path = doc2vec
-	url = https://github.com/bnosac/doc2vec
-	shallow = true
-	registered = true
 [submodule "image.CornerDetectionHarris"]
 	path = image.CornerDetectionHarris
 	url = https://github.com/bnosac/image
 	shallow = true
 	subdir = image.CornerDetectionHarris
 	registered = true
+[submodule "image.dlib"]
+	path = image.dlib
+	url = https://github.com/bnosac/image
+	shallow = true
+	subdir = image.dlib
+	registered = true
+[submodule "image.libfacedetection"]
+	path = image.libfacedetection
+	url = https://github.com/bnosac/image
+	shallow = true
+	subdir = image.libfacedetection
+	registered = true
+[submodule "image.LineSegmentDetector"]
+	path = image.LineSegmentDetector
+	url = https://github.com/bnosac/image
+	shallow = true
+	subdir = image.LineSegmentDetector
+	registered = true
+[submodule "image.Otsu"]
+	path = image.Otsu
+	url = https://github.com/bnosac/image
+	shallow = true
+	subdir = image.Otsu
+	registered = true
+[submodule "nametagger"]
+	path = nametagger
+	url = https://github.com/bnosac/nametagger
+	shallow = true
+	registered = true
+[submodule "ruimtehol"]
+	path = ruimtehol
+	url = https://github.com/bnosac/ruimtehol
+	shallow = true
+	registered = true
+[submodule "sentencepiece"]
+	path = sentencepiece
+	url = https://github.com/bnosac/sentencepiece
+	shallow = true
+	registered = true
+[submodule "spark.sas7bdat"]
+	path = spark.sas7bdat
+	url = https://github.com/bnosac/spark.sas7bdat
+	shallow = true
+	registered = true
+[submodule "taskscheduleR"]
+	path = taskscheduleR
+	url = https://github.com/bnosac/taskscheduler
+	shallow = true
+	registered = true
+[submodule "textplot"]
+	path = textplot
+	url = https://github.com/bnosac/textplot
+	shallow = true
+	registered = true
+[submodule "textrank"]
+	path = textrank
+	url = https://github.com/bnosac/textrank
+	shallow = true
+	registered = true
+[submodule "tokenizers.bpe"]
+	path = tokenizers.bpe
+	url = https://github.com/bnosac/tokenizers.bpe
+	shallow = true
+	registered = true
 [submodule "udpipe"]
 	path = udpipe
 	url = https://github.com/bnosac/udpipe
 	shallow = true
 	registered = true
-[submodule "nametagger"]
-	path = nametagger
-	url = https://github.com/bnosac/nametagger
+[submodule "word2vec"]
+	path = word2vec
+	url = https://github.com/bnosac/word2vec
 	shallow = true
 	registered = true
