@@ -4,51 +4,7 @@
     "oncran": true
   },
   {
-    "package": "crfsuite",
-    "oncran": true
-  },
-  {
-    "package": "cronR",
-    "oncran": true
-  },
-  {
-    "package": "doc2vec",
-    "oncran": true
-  },
-  {
-    "package": "image.CannyEdges",
-    "oncran": true
-  },
-  {
-    "package": "image.ContourDetector",
-    "oncran": true
-  },
-  {
-    "package": "image.CornerDetectionF9",
-    "oncran": true
-  },
-  {
-    "package": "image.CornerDetectionHarris",
-    "oncran": true
-  },
-  {
-    "package": "image.dlib",
-    "oncran": true
-  },
-  {
-    "package": "image.libfacedetection",
-    "oncran": true
-  },
-  {
-    "package": "image.LineSegmentDetector",
-    "oncran": true
-  },
-  {
-    "package": "image.Otsu",
-    "oncran": true
-  },
-  {
-    "package": "nametagger",
+    "package": "sentencepiece",
     "oncran": true
   },
   {
@@ -56,22 +12,11 @@
     "oncran": true
   },
   {
-    "package": "sentencepiece",
-    "oncran": true
-  },
-  {
-    "package": "spark.sas7bdat",
-    "oncran": true
-  },
-  {
-    "package": "taskscheduleR"
-  },
-  {
-    "package": "textplot",
-    "oncran": true
-  },
-  {
     "package": "textrank",
+    "oncran": true
+  },
+  {
+    "package": "cronR",
     "oncran": true
   },
   {
@@ -79,11 +24,66 @@
     "oncran": true
   },
   {
+    "package": "word2vec",
+    "oncran": true
+  },
+  {
+    "package": "image.CannyEdges",
+    "oncran": true
+  },
+  {
+    "package": "spark.sas7bdat",
+    "oncran": true
+  },
+  {
+    "package": "image.ContourDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.Otsu",
+    "oncran": true
+  },
+  {
+    "package": "image.LineSegmentDetector",
+    "oncran": true
+  },
+  {
+    "package": "image.dlib",
+    "oncran": true
+  },
+  {
+    "package": "crfsuite",
+    "oncran": true
+  },
+  {
+    "package": "image.libfacedetection",
+    "oncran": true
+  },
+  {
+    "package": "textplot",
+    "oncran": true
+  },
+  {
+    "package": "image.CornerDetectionF9",
+    "oncran": true
+  },
+  {
+    "package": "taskscheduleR"
+  },
+  {
+    "package": "doc2vec",
+    "oncran": true
+  },
+  {
+    "package": "image.CornerDetectionHarris",
+    "oncran": true
+  },
+  {
     "package": "udpipe",
     "oncran": true
   },
   {
-    "package": "word2vec",
+    "package": "nametagger",
     "oncran": true
   }
 ]
