@@ -30,14 +30,6 @@
 	path = image.CornerDetectionHarris
 	url = https://github.com/bnosac/image
 	subdir = image.CornerDetectionHarris
-[submodule "image.dlib"]
-	path = image.dlib
-	url = https://github.com/bnosac/image
-	subdir = image.dlib
-[submodule "image.libfacedetection"]
-	path = image.libfacedetection
-	url = https://github.com/bnosac/image
-	subdir = image.libfacedetection
 [submodule "image.LineSegmentDetector"]
 	path = image.LineSegmentDetector
 	url = https://github.com/bnosac/image
@@ -46,6 +38,14 @@
 	path = image.Otsu
 	url = https://github.com/bnosac/image
 	subdir = image.Otsu
+[submodule "image.dlib"]
+	path = image.dlib
+	url = https://github.com/bnosac/image
+	subdir = image.dlib
+[submodule "image.libfacedetection"]
+	path = image.libfacedetection
+	url = https://github.com/bnosac/image
+	subdir = image.libfacedetection
 [submodule "nametagger"]
 	path = nametagger
 	url = https://github.com/bnosac/nametagger
