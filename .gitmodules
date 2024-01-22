@@ -58,9 +58,6 @@
 [submodule "spark.sas7bdat"]
 	path = spark.sas7bdat
 	url = https://github.com/bnosac/spark.sas7bdat
-[submodule "taskscheduleR"]
-	path = taskscheduleR
-	url = https://github.com/bnosac/taskscheduler
 [submodule "textplot"]
 	path = textplot
 	url = https://github.com/bnosac/textplot
