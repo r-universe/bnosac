@@ -1,9 +1,10 @@
 {
   "id": 14120412,
   "created_at": "2021-01-16T16:02:40.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["taskscheduleR", "cronR", "spark.sas7bdat", "pattern.nlp", "BelgiumMaps.StatBel", "dlib", "image", "RDRPOSTagger", "udpipe", "textrank", "udpipe.models.ud", "GAlogger", "crfsuite", "ruimtehol", "BTM", "drat", "tokenizers.bpe", "sentencepiece", "golgotha", "textplot", "nametagger", "word2vec", "doc2vec", "ETM", "audio.whisper", "audio.vadwebrtc", "audio.vadsilero"]
 }
