@@ -38,10 +38,6 @@
 	path = image.Otsu
 	url = https://github.com/bnosac/image
 	subdir = image.Otsu
-[submodule "image.dlib"]
-	path = image.dlib
-	url = https://github.com/bnosac/image
-	subdir = image.dlib
 [submodule "image.libfacedetection"]
 	path = image.libfacedetection
 	url = https://github.com/bnosac/image
