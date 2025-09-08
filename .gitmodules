@@ -42,9 +42,6 @@
 [submodule "nametagger"]
 	path = nametagger
 	url = https://github.com/bnosac/nametagger
-[submodule "ruimtehol"]
-	path = ruimtehol
-	url = https://github.com/bnosac/ruimtehol
 [submodule "sentencepiece"]
 	path = sentencepiece
 	url = https://github.com/bnosac/sentencepiece
