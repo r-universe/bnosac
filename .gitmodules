@@ -57,6 +57,9 @@
 [submodule "tokenizers.bpe"]
 	path = tokenizers.bpe
 	url = https://github.com/bnosac/tokenizers.bpe
+[submodule "topicmodels.etm"]
+	path = topicmodels.etm
+	url = https://github.com/bnosac/etm
 [submodule "udpipe"]
 	path = udpipe
 	url = https://github.com/bnosac/udpipe
